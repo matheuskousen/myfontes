@@ -1,0 +1,1 @@
+self.__BUILD_MANIFEST = (function(a,b){return {"/":[a,b],"/[fontes]":[a,b],"/index":[a,b]}}("static\u002Fchunks\u002F05d954cf.8aaf297f8eff2ccd29ac.js","static\u002Fchunks\u002F49c284fee5c402e9aa804dd7346056e9e8cf6e16.eebeb8f6dcdecf754bd9.js"));self.__BUILD_MANIFEST_CB && self.__BUILD_MANIFEST_CB()
